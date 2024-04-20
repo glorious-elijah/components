@@ -1,0 +1,6 @@
+[submodule "Vue"]
+	path = Vue
+	url = https://github.com/glorious-elijah/Vue.git
+[submodule "React"]
+	path = React
+	url = https://github.com/glorious-elijah/react-components.git
